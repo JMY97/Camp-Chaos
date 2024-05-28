@@ -40,4 +40,4 @@ Animation
 -Zombie Crawl
 -Auto move and rotate script [Grimoire]
 
-Download Camp-Chaos.zip, extract, and run Main Project.exe to play demo
+Download Camp Chaos.zip, extract, and run Main Project.exe to play demo
